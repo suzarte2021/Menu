@@ -1,0 +1,19 @@
+body
+{
+  margin: 0;
+  padding: 0;
+ font-family: sans-serif ;
+}
+.Usuários
+{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50,-50);
+width: 350px;
+min-height: 200px;
+background: rgb(18, 157, 182);
+border-radius:10px;
+
+
+}
